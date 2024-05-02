@@ -172,7 +172,7 @@ QMenuBar::item {
 }
 
 QMenu::item:selected {
-	background-color: #ffffff;
+	background-color: #21232E;
 }
 
 QMenu::item:disabled {
